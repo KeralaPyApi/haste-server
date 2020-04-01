@@ -1,5 +1,5 @@
 body {
-	background: #002B36;
+	background: #FF0000;
 	padding: 20px 50px;
 	margin: 0px;
 }
@@ -7,7 +7,7 @@ body {
 /* textarea */
 
 textarea {
-	background: transparent;
+	background: #002B36;
 	border: 0px;
 	color: #fff;
 	padding: 0px;
@@ -73,7 +73,7 @@ textarea {
 
 #box1 a.logo, #box1 a.logo:visited {
 	display: inline-block;
-	background: url(logo.png);
+	background: url(footer.jpg);
 	width: 126px;
 	height: 42px;
 }
